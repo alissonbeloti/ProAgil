@@ -1,0 +1,12 @@
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Repository.deps.json
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Repository.dll
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Repository.pdb
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Domain.dll
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Repository\bin\Debug\netstandard2.0\ProAgil.Domain.pdb
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.csprojAssemblyReference.cache
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.csproj.CoreCompileInputs.cache
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.AssemblyInfoInputs.cache
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.AssemblyInfo.cs
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.csproj.CopyComplete
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.dll
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Repository\obj\Debug\netstandard2.0\ProAgil.Repository.pdb

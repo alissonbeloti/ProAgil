@@ -1,0 +1,9 @@
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Domain\bin\Debug\netstandard2.0\ProAgil.Domain.deps.json
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Domain\bin\Debug\netstandard2.0\ProAgil.Domain.dll
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Domain\bin\Debug\netstandard2.0\ProAgil.Domain.pdb
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.csprojAssemblyReference.cache
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.csproj.CoreCompileInputs.cache
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.AssemblyInfoInputs.cache
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.AssemblyInfo.cs
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.dll
+E:\estudos\AspNetCoreAngular\WebApi\ProAgil.Domain\obj\Debug\netstandard2.0\ProAgil.Domain.pdb
