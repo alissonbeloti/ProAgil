@@ -22,7 +22,7 @@ namespace ProAgil.Repository
 
         public void Delete<T>(T entity) where T : class
         {
-            this.context.Add(entity);
+            this.context.Remove(entity);
         }
 
         public void Update<T>(T entity) where T : class
